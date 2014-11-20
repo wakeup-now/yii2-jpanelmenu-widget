@@ -63,7 +63,7 @@ class JPanelMenu extends Widget
 		$options = empty($this->pluginOptions) ? "" : Json::encode($this->pluginOptions);
 		$js = "var ". $this->instanceName." = $.jPanelMenu(" . $options . ")";
 		$view->registerJs($js);
-		if($this->autoEnable) {
+		if ($this->autoEnable) {
 			$js = $this->instanceName . '.on();';
 			$view->registerJs($js);
 		}

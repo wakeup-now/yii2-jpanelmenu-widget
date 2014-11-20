@@ -3,6 +3,7 @@ namespace raoul2000\widget\jpanelmenu;
 
 use yii\web\AssetBundle;
 
+
 /**
  * @author Raoul <raoul.boulard@gmail.com>
  */
