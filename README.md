@@ -58,8 +58,13 @@ Using JPanelMenu widget is easy. For instance, add following code to your view f
 			
 ```
 
-
 For more information on the plugin options, please refer to [JPanelMenu github page](https://github.com/acolangelo/jPanelMenu/).
+
+
+Alternative
+----------
+- [yii2-sidr-widget](https://github.com/raoul2000/yii2-sidr-widget)
+
 
 License
 -------
