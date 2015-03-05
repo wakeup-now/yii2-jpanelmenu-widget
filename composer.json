@@ -1,6 +1,6 @@
 {
-	"name" : "raoul2000/yii2-Sidr-widget",
-	"description" : "The Sidr widget is a wrapper for the JPanelMenu jQuery plugin, for creating side menus.",
+	"name" : "raoul2000/yii2-jpanelmenu-widget",
+	"description" : "This widget is a wrapper for the JPanelMenu jQuery plugin, for creating side menus.",
 	"type" : "yii2-extension",
 	"keywords" : [
 		"yii2",
