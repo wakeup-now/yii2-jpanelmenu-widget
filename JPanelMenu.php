@@ -5,7 +5,7 @@ use Yii;
 use yii\base\Widget;
 use yii\base\InvalidConfigException;
 use yii\helpers\Json;
-use raoul2000\widget\jpanelmenu\JpanelMenuAsset;
+use raoul2000\widget\jpanelmenu\JPanelMenuAsset;
 
 /**
  * JPanelMenu is a wrapper for the [jPanelMenu jQuery plugin](http://jpanelmenu.com/).
